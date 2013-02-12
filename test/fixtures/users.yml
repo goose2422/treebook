@@ -1,7 +1,15 @@
-Jason:
+jason:
 	first_name: "Jason"
 	last_name: "Dude"
 	email: "Jason@gmail.com"
 	password: "password"
 	password_confirmation: "password"
 	profile_name: "jasondude"
+
+jim:
+	first_name: "Jim"
+	last_name: "Man"
+	email: "Jim@gmail.com"
+	password: "password"
+	password_confirmation: "password"
+	profile_name: "jimjim"
